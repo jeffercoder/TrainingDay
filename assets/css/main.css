@@ -1,0 +1,90 @@
+body {
+  margin: 0;
+}
+
+header {
+  padding: 67px 0;
+  background-color: #d58d7e;
+  color: #f2e3e3;
+}
+header > h1 {
+  margin: 0 0 40px 0;
+  text-align: center;
+}
+header > ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+}
+header > ul > li {
+  display: inline;
+  margin: 0 10px;
+}
+header > ul > li > a {
+  color: #e0d7e8;
+  text-decoration: none;
+}
+main {
+  padding: 60px 80px 140px 80px;
+}
+
+
+#about-me {
+  margin: 0 0 60px 0;
+}
+#about-me > h3 {
+  margin: 0 0 40px 0;
+}
+#about-me > div {
+  display: inline-block;
+   width: 40%;
+}
+#about-me > p {
+  float: right;
+  width: 40%;
+}
+#projects {
+   margin: 60px 0;
+}
+
+#projects > h3 {
+  margin: 0 0 40px 0;
+}
+#projects > div {
+}
+
+#projects > div > div {
+  display: inline-block;
+  text-align: center;
+
+}
+#projects > div > div > img {
+  margin: 0 0 40px 0;
+}
+section {
+  margin: 60ox 0;
+}
+section > h3 {
+  margin: 0 0 40px 0;
+}
+section > h4  {
+  margin: 0 0 20px 0;
+}
+footer {
+  background-color: #d58d7e;
+ }
+
+footer > ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  margin: 0;
+}
+footer > ul > li {
+  display: inline;
+  margin: 0 10px;
+}
+footer > ul > li > a {
+  color: #e5ddec;
+  text-decoration: none;
+}
