@@ -18,7 +18,7 @@ header > ul {
 }
 header > ul > li {
   display: inline;
-  margin: 0 10px;
+  margin: 0 15px;
 }
 header > ul > li > a {
   color: #e0d7e8;
